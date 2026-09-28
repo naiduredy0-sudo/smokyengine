@@ -18,9 +18,7 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/bikash_playz"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {
     "Smoky-VIP-OM87V5": {
       "hwid": "RESET",
