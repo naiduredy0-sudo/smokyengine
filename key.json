@@ -25,7 +25,7 @@
     "Smoky-VIP-OM87V5": {
       "hwid": "RESET",
       "expireDate": "2026-10-01",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
